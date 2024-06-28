@@ -47,3 +47,34 @@
   font-weight: 300 700;
   font-style: normal;
 }
+
+@font-face {
+  ​​font-family: 'Pretendard-Regular';
+  ​​src: url('fonts/Pretendard-Regular.woff') format('woff');
+  ​​font-weight: 400;
+  ​​font-style: normal;
+  }
+
+  
+@font-face {
+  ​​font-family: 'Pretendard-Regular';
+  ​​src: url('fonts/Pretendard-Regular.woff') format('woff');
+  ​​font-weight: 400;
+  ​​font-style: normal;
+  }
+
+
+  @font-face {
+    ​​font-family: 'Pretendard-Regular';
+    ​​src: url('fonts/Pretendard-Regular.woff2') format('woff2');
+    ​​font-weight: 400;
+    ​​font-style: normal;
+    }
+  
+
+    @font-face {
+      ​​font-family: 'AppleSDGothicNeoSB';
+      ​​src: url('fonts/AppleSDGothicNeoSB.ttf') format('truetype');
+      ​​font-weight: 400;
+      ​​font-style: normal;
+      }    
